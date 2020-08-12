@@ -4791,7 +4791,7 @@
 1000007000,CVS Caremark RX,RXCVSD,MEDDADV,4336,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
 1000007115,"CIGNA Health Plans, Inc.",NULL,CIHSCARE,17010,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
 1000007115,"CIGNA Health Plans, Inc.",NULL,CIHSCARE,17010,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
-1000023706,"Humana, Inc.",4.03032E+12,3200000,15581,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
+1000023706,"Humana, Inc.",4.03E+12,3200000,15581,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
 1000023710,"Aetna, Inc.",RXAETD,MEDDAET,610502,Medicare,1,Tier 5 - Some of the highest-cost prescription drugs - mostly specialty
 1000023771,"Humana, Inc.",X1467,3200000,15581,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
 1000023771,"Humana, Inc.",X1467,3200000,15581,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
@@ -18210,7 +18210,7 @@
 1000085854,Centene Corporation,RX6270,MEDDADV,4336,Medicare,1,Tier 5 - Some of the highest-cost prescription drugs - mostly specialty
 1000096777,"Humana, Inc.",X2598001,3200000,15581,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
 1000096785,"Aetna, Inc.",RXAETD,MEDDAET,610502,Medicare,1,Tier 5 - Some of the highest-cost prescription drugs - mostly specialty
-1000096789,"Aetna, Inc.",8.66065E+13,670000,610502,Commercial,1,Tier 3 - High-cost prescription drugs - mostly brand name
+1000096789,"Aetna, Inc.",8.66E+13,670000,610502,Commercial,1,Tier 3 - High-cost prescription drugs - mostly brand name
 1000096794,"Aetna, Inc.",RXAETD,MEDDAET,610502,Medicare,1,Tier 5 - Some of the highest-cost prescription drugs - mostly specialty
 1000096801,Prime Therapeutics,49400180,2090000,610624,Commercial,1,Tier 3 - High-cost prescription drugs - mostly brand name
 1000096879,"Humana, Inc.",NULL,3200000,15581,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
@@ -20945,7 +20945,7 @@
 1000078088,CVS Caremark RX,RXCVSD,MEDDADV,4336,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
 1000078322,"Humana, Inc.",NULL,3200000,15581,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
 1000099459,"UnitedHealth Group, Inc.",PDPIND,9999,610097,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
-1000099481,"Aetna, Inc.",1.00087E+13,NULL,610502,Commercial,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
+1000099481,"Aetna, Inc.",1.00E+13,NULL,610502,Commercial,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
 1000099516,"UnitedHealth Group, Inc.",COS,9999,610097,Medicare,1,Tier 5 - Some of the highest-cost prescription drugs - mostly specialty
 1000099525,"Humana, Inc.",P5389027,3200000,15581,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
 1000099551,"Humana, Inc.",NULL,3200000,15581,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
@@ -21358,7 +21358,7 @@
 1000188804,Blue Cross Blue Shield Association Corporation,WL5A,FC,20099,Medicare,1,Tier 3 - High-cost prescription drugs - mostly brand name
 1000070398,"CIGNA Health Plans, Inc.",9057CHSIPDP,NULL,610014,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
 1000070398,"CIGNA Health Plans, Inc.",9057CHSIPDP,NULL,610014,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
-1000166773,"Express Scripts, Inc.",1.00026E+13,MEDDPRIME,610014,Medicare,1,Tier 5 - Some of the highest-cost prescription drugs - mostly specialty
+1000166773,"Express Scripts, Inc.",1.00E+13,MEDDPRIME,610014,Medicare,1,Tier 5 - Some of the highest-cost prescription drugs - mostly specialty
 1000166244,OptumRx ,ACUNE,4444,610494,State Medicaid,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
 1000167334,"Humana, Inc.",NULL,3200000,15581,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
 1000166842,"CIGNA Health Plans, Inc.",9057CHSIPDP,NULL,610014,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
@@ -24024,8 +24024,8 @@
 1000163651,OptumRx ,PDPIND,9999,610097,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
 1000185817,OptumRx ,SHTX,9999,610097,Medicare,1,Tier 5 - Some of the highest-cost prescription drugs - mostly specialty
 1000185766,OptumRx ,EGWPS032,CTRXMEDD,610011,Medicare,1,Tier 3 - High-cost prescription drugs - mostly brand name
-1000188197,"Aetna, Inc.",8.35086E+13,NULL,NULL,Commercial,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
-1000188197,"Aetna, Inc.",8.35086E+13,NULL,NULL,Commercial,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
+1000188197,"Aetna, Inc.",8.35E+13,NULL,NULL,Commercial,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
+1000188197,"Aetna, Inc.",8.35E+13,NULL,NULL,Commercial,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
 1000188415,"Aetna, Inc.",RXAETD,MEDDAET,610502,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
 1000194434,Express Scripts PBM,IN042201,MEDDPRIME,610014,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
 1000194237,"Aetna, Inc.",RXAETD,MEDDAET,610502,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
@@ -24141,8 +24141,8 @@
 1000249091,"Humana, Inc.",NULL,3200000,15581,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
 1000249406,OptumRx ,MPDCSP,9999,610097,Medicare,1,Tier 5 - Some of the highest-cost prescription drugs - mostly specialty
 1000249152,WellCare Corporation,RXAETD,MEDDAET,610502,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
-1000249290,"Express Scripts, Inc.",1.05161E+13,MEDDPRIME,610014,Medicare,1,Tier 2 - Medium-cost prescription drugs - some generic and some brand name
-1000249290,"Express Scripts, Inc.",1.05161E+13,MEDDPRIME,610014,Medicare,1,Tier 2 - Medium-cost prescription drugs - some generic and some brand name
+1000249290,"Express Scripts, Inc.",1.05E+13,MEDDPRIME,610014,Medicare,1,Tier 2 - Medium-cost prescription drugs - some generic and some brand name
+1000249290,"Express Scripts, Inc.",1.05E+13,MEDDPRIME,610014,Medicare,1,Tier 2 - Medium-cost prescription drugs - some generic and some brand name
 1000244358,OptumRx ,MPDOHCSP,9999,610097,Medicare,1,Tier 2 - Medium-cost prescription drugs - some generic and some brand name
 1000249581,"Humana, Inc.",NULL,3200000,15581,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
 1000129202,OptumRx ,COS,9999,610097,Medicare,1,Tier 5 - Some of the highest-cost prescription drugs - mostly specialty
@@ -26103,8 +26103,8 @@
 1000254304,OptumRx ,ERSTX,9999,610097,Medicare,1,Tier 3 - High-cost prescription drugs - mostly brand name
 1000254417,CVS Caremark RX,RX5458,MCAIDADV,4336,Managed Medicaid,1,Tier 3 - High-cost prescription drugs - mostly brand name
 1000254526,CVS Caremark RX,788257,MEDDADV,4336,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
-1000254538,"Express Scripts, Inc.",1.05161E+13,MEDDPRIME,610014,Medicare,1,Tier 2 - Medium-cost prescription drugs - some generic and some brand name
-1000254538,"Express Scripts, Inc.",1.05161E+13,MEDDPRIME,610014,Medicare,1,Tier 2 - Medium-cost prescription drugs - some generic and some brand name
+1000254538,"Express Scripts, Inc.",1.05E+13,MEDDPRIME,610014,Medicare,1,Tier 2 - Medium-cost prescription drugs - some generic and some brand name
+1000254538,"Express Scripts, Inc.",1.05E+13,MEDDPRIME,610014,Medicare,1,Tier 2 - Medium-cost prescription drugs - some generic and some brand name
 1000254602,OptumRx ,PDPIND,9999,610097,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
 1000254738,CVS Caremark RX,RXCVSD,MEDDADV,4336,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
 1000254572,"Humana, Inc.",NULL,3200000,15581,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
@@ -26278,7 +26278,7 @@
 1000123744,"Humana, Inc.",NULL,3200000,15581,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
 1000245018,OptumRx ,MPDCSP,9999,610097,Medicare,1,Tier 5 - Some of the highest-cost prescription drugs - mostly specialty
 1000245053,"Aetna, Inc.",RXAETD,MEDDAET,610502,Medicare,1,Tier 5 - Some of the highest-cost prescription drugs - mostly specialty
-1000244887,Express Scripts PBM,1.00026E+13,MEDDPRIME,610014,Medicare,1,Tier 5 - Some of the highest-cost prescription drugs - mostly specialty
+1000244887,Express Scripts PBM,1.00E+13,MEDDPRIME,610014,Medicare,1,Tier 5 - Some of the highest-cost prescription drugs - mostly specialty
 1000244992,"Humana, Inc.",NULL,3200000,15581,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
 1000244906,Envision Pharmaceutical Services,EICH002,NULL,12312,Medicare,1,Tier 5 - Some of the highest-cost prescription drugs - mostly specialty
 1000245287,Navitus Health Solutions PBM,VHD0HCZGF3GWZ,NVT,610602,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
@@ -27313,7 +27313,7 @@
 1000246971,CVS Caremark RX,RXCVSD,MEDDADV,4336,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
 1000247265,WellCare Corporation,788257,MEDDADV,4336,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
 1000030841,Script Care PBM,RXCVSD,MEDDADV,4336,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
-1000247222,"Aetna, Inc.",1.51696E+13,NULL,NULL,Commercial,1,Tier 2 - Medium-cost prescription drugs - some generic and some brand name
+1000247222,"Aetna, Inc.",1.52E+13,NULL,NULL,Commercial,1,Tier 2 - Medium-cost prescription drugs - some generic and some brand name
 1000247523,"Anthem, Inc.",PDPIND,9999,610097,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
 1000247540,OptumRx ,PDPIND,9999,610097,Medicare,1,Tier 4 - Higher-cost prescription drugs - mostly brand name and some specialty
 1000247680,WellCare Corporation,788257,MEDDADV,4336,Medicare,1,Tier 5 - Some of the highest-cost prescription drugs - mostly specialty
